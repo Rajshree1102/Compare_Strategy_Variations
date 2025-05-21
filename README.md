@@ -25,5 +25,3 @@ Slicer 2A & 2B: Show Variations filtered by selected Strategy
 
 ### Model Relationships  
 No relationships needed between the tables since they remain independent and are filtered separately.
-
-![Dashboard Screenshot](Screenshot 2025-05-21 155225.png)
