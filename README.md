@@ -26,4 +26,4 @@ Slicer 2A & 2B: Show Variations filtered by selected Strategy
 ### Model Relationships  
 No relationships needed between the tables since they remain independent and are filtered separately.
 
-![Alt text]("C:/Users/khush/OneDrive/Desktop/OneDrive/Pictures/Screenshots/Screenshot 2025-05-21 155225.png")
+![Alt text](C:/Users/khush/OneDrive/Desktop/OneDrive/Pictures/Screenshots/Screenshot 2025-05-21 155225.png)
